@@ -1,0 +1,20 @@
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+figures/desktop.ini
+# OS files
+.DS_Store
+.DS_Store
+scripts/.DS_Store
+scripts/.DS_Store
+scripts/.DS_Store
+scripts/.DS_Store
+scripts/.DS_Store
+scripts/.DS_Store
+scripts/.DS_Store
+scripts/.DS_Store
+scripts/Figures/.Rapp.history
+scripts/.DS_Store
+.httr-oauth
